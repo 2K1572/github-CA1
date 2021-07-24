@@ -1,3 +1,15 @@
+# IT Fundamentals
+
+* Thevendra Vijayakumar
+* vijty001
+* ct.dtheven@gmail.com
+* Information Technology Fundamentals
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Kismet-IMG_6007-black.jpg">
+<a href="https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg">https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg</a> 
+
+
+
 # Your GitHub Learning Lab Repository for Introducing GitHub
 
 Welcome to Thevendra Vijayakumar's repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
